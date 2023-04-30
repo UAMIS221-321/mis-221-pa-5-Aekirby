@@ -1,0 +1,4 @@
+4f3aeee9-af74-447d-b0a6-3a56042ab039#John#123 home#John@gmail.com#
+8d0a39ae-6748-42f5-b954-c74ee5a4ca5e#Bob#456 cool st#Bob@hotmail.com#
+7daf6786-2e28-4da7-8d09-28feec72c132#Mary#789 not way#Mary@outlook.com#
+15862382-2c2a-4868-ae9e-b8febaf88de1#Simon#101 dude st#Simon@yahoo.com#
